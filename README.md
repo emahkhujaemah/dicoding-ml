@@ -2,10 +2,10 @@
 
 ## **Kelas Belajar Machine untuk Learning Pemula**
 
-Nama : Emah Khujaemah
-Username Dicoding : Khuza Emah
-Email : khuza.emah24@gmail.com
-Domisili : Indramayu, Jawa Barat
+- Nama : Emah Khujaemah
+- Username Dicoding : Khuza Emah
+- Email : khuza.emah24@gmail.com
+- Domisili : Indramayu, Jawa Barat
 
 # Kelas-Machine-Learning-Pemula-Dicoding
 Materi Kelas-Machine-Learning-Pemula-Dicoding :
